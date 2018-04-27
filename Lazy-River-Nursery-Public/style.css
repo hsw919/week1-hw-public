@@ -1,0 +1,52 @@
+html {
+  margin: 0;
+}
+
+body {
+  text-align: center;
+  background: grey;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+header h1 {
+  margin: 0;
+}
+
+.contain {
+  margin: 0 300px 0 300px;
+  background: #afafaf;
+  color: white;
+}
+
+header {
+  background: DeepSkyBlue;
+}
+
+header h1 {
+  padding: 50px;
+  color: white;
+  text-transform: uppercase;
+}
+
+nav {
+  background: white;
+  margin: 0;
+  padding: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  padding: 20px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  margin: 100px;
+}
+
+
+
